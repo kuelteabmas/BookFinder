@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">BookFinder</string>
+    <string name="api_key">AIzaSyCGtJTASY09xZSPjB1QczmnOlry219QWGY</string>
+
 
     <string name="welcome">Welcome to \nBookFinder!</string>
     <string name="topic_search">Enter the topic of the book you wish to discover!</string>

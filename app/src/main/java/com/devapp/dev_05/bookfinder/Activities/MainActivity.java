@@ -12,6 +12,12 @@ import android.widget.LinearLayout;
 import com.devapp.dev_05.bookfinder.R;
 
 public class MainActivity extends AppCompatActivity {
+
+    // BaSE URL for parsing
+    //     private static final String BASE_URL_STRING = "https://www.googleapis.com/books/v1/volumes";
+
+
+
     // Declare variables
     LinearLayout linearLayout1, linearLayout2;
     Button searchButton;
